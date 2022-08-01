@@ -1,5 +1,5 @@
 
-#### We need to be in the correct folder structure
+#### Make sure we are in the correct folder structure and terraform is configured correctly and connected to GCP using Gcloud
 `C:\Users\kkot\Desktop\projects\GCP\terraform-gcp-vm
 `
 ## Terraform commands
